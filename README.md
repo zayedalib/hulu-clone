@@ -1,4 +1,4 @@
-![preview](https://github.com/SecondBeta/Hulu-Clone/blob/main/assets/images/Hulu%20Clone.gif)
+![preview](https://github.com/zayedalib/Hulu-Clone/blob/main/assets/images/Hulu%20Clone.gif)
 
 ## Getting Started
 
